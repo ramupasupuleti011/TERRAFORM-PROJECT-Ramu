@@ -1,9 +1,5 @@
 # 🚀 AWS Infrastructure Automation using Terraform & Jenkins CI/CD
 
-<p align="center">
-<img src="./screenshots/architecture.png" width="900">
-</p>
-
 ## 📌 Overview
 
 Automated AWS infrastructure provisioning using **Terraform** and **Jenkins CI/CD**. The pipeline validates, plans, and deploys infrastructure resources on AWS using Infrastructure as Code (IaC).
